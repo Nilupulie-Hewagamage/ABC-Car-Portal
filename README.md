@@ -62,3 +62,7 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 4. **Run Java Application and open [http://localhost:8080](http://localhost:8080)**
 
 5. ## Project Result
+
+#### Home Page
+![Home](https://github.com/Nilupulie-Hewagamage/ABC-Car-Portal/assets/137420146/f1ffb055-7a61-4d2b-9558-77101304b262)
+
