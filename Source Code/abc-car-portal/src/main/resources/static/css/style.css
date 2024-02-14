@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+.container {
+	padding: 2rem 0rem;
+}
+
+h4 {
+	margin: 2rem 0rem 1rem;
+}
+
+
+
+.main_image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-bottom: 1px solid #eee;
+	height: 400px;
+	width: 100%;
+	overflow: hidden
+}
+
+.heart {
+	height: 29px;
+	width: 29px;
+	background-color: #eaeaea;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
+
+.content p {
+	font-size: 12px
+}
+
+.ratings span {
+	font-size: 14px;
+	margin-left: 12px
+}
+
+
+.right-side {
+	position: relative
+}
+
+
+.buttons .btn {
+	height: 50px;
+	width: 150px;
+	border-radius: 0px !important
+}
