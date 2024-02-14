@@ -68,3 +68,15 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 
 #### Login Page
 ![Login](https://github.com/Nilupulie-Hewagamage/ABC-Car-Portal/assets/137420146/917e8a39-9b84-4a39-8e43-70ece41f203c)
+
+#### Register Page
+![Register](https://github.com/Nilupulie-Hewagamage/ABC-Car-Portal/assets/137420146/dcfecaea-8564-4364-84f2-f4bc94aaeebe)
+
+#### Contact Us Page
+![Contact Us](https://github.com/Nilupulie-Hewagamage/ABC-Car-Portal/assets/137420146/0bc8367c-4b9b-490d-a5b3-ec4875629caa)
+
+#### About Us Page
+![About Us](https://github.com/Nilupulie-Hewagamage/ABC-Car-Portal/assets/137420146/9b403cb9-5f81-40ab-a8be-f873bf61f936)
+
+#### Post Car Page
+
